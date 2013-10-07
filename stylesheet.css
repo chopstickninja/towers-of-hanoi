@@ -1,0 +1,38 @@
+.selected {
+	border: 1px solid black;
+}
+
+.tower {
+	display: inline-block;
+	height: 300px;
+	width: 100px;
+	text-align: center;
+}
+
+.emptySlot{
+	height: 100px;
+	width: 100px;
+	background-color: white;
+}
+
+.disc1{
+	width: 50px;
+	height: 100px;
+	background-color: red;
+	display: inline-block;
+}
+
+.disc2{
+	width: 75px;
+	height: 100px;
+	background-color: blue;
+	display: inline-block;
+}
+
+.disc3{
+	width: 100px;
+	height: 100px;
+	background-color: purple;
+	display: inline-block;
+}
+
