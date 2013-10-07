@@ -5,7 +5,7 @@ var Hanoi = {
 
   won: function() {
     if (this.tower2.length === 3 || this.tower3.length === 3) {
-      $("body").append("You beat it!");
+      $("#gameContent").append("You win!");
 			$(".tower").off("click");
     }
   },

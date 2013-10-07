@@ -1,6 +1,6 @@
-.selected {
-	border: 1px solid black;
-}
+.inline { float:left; }
+.clearBoth { clear:both; }
+.selected {	border: 1px solid black; }
 
 .tower {
 	display: inline-block;
