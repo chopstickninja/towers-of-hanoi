@@ -1,2 +1,3 @@
-towers-of-hanoi
+Towers of Hanoi
 ===============
+JavaScript Towers game!
